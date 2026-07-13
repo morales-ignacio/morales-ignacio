@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hi, I'm Ignacio
 
-<!--
-**morales-ignacio/morales-ignacio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data scientist and Python programmer.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech I work with**
+
+Languages: Python, SQL (PostgreSQL, MySQL, SQLAlchemy)
+Data and ML: pandas, NumPy, scikit-learn, LightGBM, Optuna, SHAP, Fairlearn, statsmodels, scipy
+Visualization: matplotlib, seaborn, Plotly
+Web and scraping: Playwright, BeautifulSoup, httpx, requests
+Infrastructure: Git, GitHub Actions, Railway
+Tools: Jupyter, uv, Excel, VS Code, Anaconda
+Spoken languages: Spanish, English
+
+---
+
+**Get in touch**
+
+- Email: nachimorales07@gmail.com
+- LinkedIn: linkedin.com/in/ignaciomoralesnegro
+- Portfolio: https://ignacio-morales.com/
