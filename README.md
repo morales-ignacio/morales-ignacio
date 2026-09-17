@@ -6,13 +6,14 @@ Data scientist.
 
 **Tech I work with**
 
-- **Languages:** Python, SQL (PostgreSQL, MySQL, SQLAlchemy)
-- **Data and ML:** pandas, NumPy, scikit-learn, LightGBM, Optuna, MLflow, SHAP, Fairlearn, statsmodels, scipy, GeoPandas
-- **Visualization:** matplotlib, seaborn, Plotly, Power BI, Tableau
-- **Web, APIs and scraping:** FastAPI, Playwright, BeautifulSoup, httpx, requests
-- **Infrastructure:** Git, GitHub Actions, Railway, Parquet
-- **Tools:** Jupyter, uv, Excel, VS Code, Anaconda
-- **Spoken languages:** Spanish, English
+- **Languages & databases:** Python, SQL, PostgreSQL, MySQL, SQLite, SQLAlchemy
+- **Python libraries:** pandas, NumPy, statsmodels, SciPy, GeoPandas, PyArrow
+- **Machine learning:** scikit-learn, LightGBM, Optuna, SHAP, Fairlearn, MLflow
+- **Web scraping:** BeautifulSoup, Playwright, httpx, requests
+- **Visualization & BI:** matplotlib, seaborn, Plotly, Power BI, Tableau
+- **Infrastructure:** Git, GitHub, GitHub Actions, Railway
+- **Tools:** Jupyter, Command Line, uv, VS Code, Anaconda, Excel
+- **Web:** FastAPI, HTML, CSS, JavaScript, PHP, Next.js, React, Tailwind CSS
 
 ---
 
