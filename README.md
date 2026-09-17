@@ -1,19 +1,19 @@
 ### Hi, I'm Ignacio
 
-Data scientist and Python programmer.
+Data scientist.
 
 ---
 
 **Tech I work with**
 
 - **Languages:** Python, SQL (PostgreSQL, MySQL, SQLAlchemy)
-- **Data and ML:** pandas, NumPy, scikit-learn, LightGBM, Optuna, SHAP, Fairlearn, statsmodels, scipy
-- **Visualization:** matplotlib, seaborn, Plotly
-- **Web and scraping:** Playwright, BeautifulSoup, httpx, requests
-- **Infrastructure:** Git, GitHub Actions, Railway
+- **Data and ML:** pandas, NumPy, scikit-learn, LightGBM, Optuna, MLflow, SHAP, Fairlearn, statsmodels, scipy, GeoPandas
+- **Visualization:** matplotlib, seaborn, Plotly, Power BI, Tableau
+- **Web, APIs and scraping:** FastAPI, Playwright, BeautifulSoup, httpx, requests
+- **Infrastructure:** Git, GitHub Actions, Railway, Parquet
 - **Tools:** Jupyter, uv, Excel, VS Code, Anaconda
 - **Spoken languages:** Spanish, English
-  
+
 ---
 
 **Get in touch**
